@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">The Exotica</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="about_exotica">
+
+         <font color="Magenta"> Exotica,</font> <font color="white">in its 12th year \n promise to live up to its name,\n implying invigorating, boundless energy.\n
+The Annual TechFest of\n</font><font color="green">Nalanda Institute Of Technology,\n Bhubaneswar</font>\n
+        <font color="white"> is our biggest and grandest college festivals.\n
+Year after year,\nit has been evolving,\n reinventing itself in leaps and bounds.\n
+Every year,</font> <font color="Magenta">Exotica</font><font color="white"> throws participants\n newer an unprecedented challenges,\n sets new standards, leaving the\n participants awestruck.\n
+It is no wonder that</font> <font color="Magenta">Exotica</font><font color="white"> has\n gained the kind of Recognition it has,\n in such a short time span.</font>
+
+
+        </string>
+
+
+    <string-array name="questions">
+        <item>What is Exotica?\n</item>
+        <item>What are the types of events in Exotica?\n</item>
+        <item>How can you participate?\n</item>
+        <item>How can you download our app?\n</item>
+        <item>Are there any online events?\n</item>
+        <item>Is there any special arrangements of bus for girls during DJ night of Exotica?\n</item>
+        <item>Still have any query?\n</item>
+
+    </string-array>
+
+    <string-array name="answer1">
+        <item>Exotica,\nThe Annual Techno-Management Fest of\n Nalanda Institute of Technology, Bhubaneswar is our
+            biggest college festival.\n
+            It will span for 5 days.\n
+            The spirit of Exotica lies in encouraging sound practices, making precision engineering a way of life,\n
+            Effectively bringing about a paradigm shift from classroom to path-breaking innovation.\n</item>
+
+
+    </string-array>
+    <string-array name="answer2">
+        <item>Exotica is a plethora of many events. It includes branch events, gaming events, formal events,fun events etc.\n</item>
+    </string-array>
+    <string-array name="answer3">
+        <item>You can get register through our website <font color="#e103e1">www.TheExotica2k18.in</font> or you can get register in our TheExotica 2k18 android app https://goo.gl/R5cJCx\n</item>
+    </string-array>
+    <string-array name="answer4">
+
+
+        <item> You can download our TheExotica 2k18 app from Google playstore.\n</item>
+    </string-array>
+    <string-array name="answer5">
+        <item>No,there will not be online events.\n</item>
+    </string-array>
+    <string-array name="answer6">
+        <item>Yes! Girls would be provided a BUS and a special mirror environment after the Sunset.\n</item>
+    </string-array>
+    <string-array name="answer7">
+        <item>Contact:-\n
+            Subhrajit Ghosh - 9415360115 \n
+            Md Salahuddin Owaisi - 9658899311\n
+            Prabal Singh - 8763499180\n</item>
+    </string-array>
+    <string name="title_activity_events">Events</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.exotica.asus.theexotica2k18">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".teamexotica"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Gallery"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Map"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Sponsors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Faq"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Contact"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Events"
+            android:label="@string/title_activity_events"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".CulturalEvents" />
+        <activity android:name=".LiteraryEvents" />
+        <activity android:name=".SportsEvents" />
+        <activity android:name=".RoboMania" />
+        <activity android:name=".developer"
+            android:screenOrientation="portrait"></activity>
+    </application>
+
+</manifest>
